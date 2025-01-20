@@ -8,4 +8,4 @@
 	and other assignments for CTI 110.    
 	----------------------------------------------------
 
-# **About Me**
+# About Me
