@@ -1,5 +1,5 @@
 	
-	### Patrick Mason  
+	** Patrick Mason **  
 	pgmason@my.waketech.edu  
 	[My GitHub Page](pgmasonSP2025.github.io)  
 	----------------------------------------------------  
