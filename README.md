@@ -1,7 +1,7 @@
 #
 	Patrick Mason
 	pgmason@my.waketech.edu
-	pgmasonSP2025.github.io
+	[My GitHub Page](pgmasonSP2025.github.io)
 	-------------------------------------
 	This account is for school work only.
 	The repository will hold my class work
