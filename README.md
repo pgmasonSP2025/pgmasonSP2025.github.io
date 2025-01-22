@@ -13,13 +13,13 @@ and other assignments for CTI 110.
     1.  
     2.  
     3.  
-   *renovation
-    1.  
-    2.  
+   *renovation  
+   1.  
+   2.  
    *Recipes I want to perfect this year  
-    1.  
-    2.
-    3.
+   1.  
+   2.  
+   3.  
  ## What I am watching  
    *[Solo Leveling](https://www.youtube.com/watch?v=BIBXA1Tpp8U)  
 	-description goes here  
