@@ -9,10 +9,10 @@ and other assignments for CTI 110.
 
 
 # About Me
- ##Pursuits  
+ ## Pursuits  
    *degree  
    *renovation  
    *Recipes I want to perfect this year  
- ##What I am watching  
+ ## What I am watching  
    *[Solo Leveling](https://www.youtube.com/watch?v=BIBXA1Tpp8U)  
    *[American Primeval](https://www.youtube.com/watch?v=U8WMvCrywYg)
