@@ -10,8 +10,18 @@ and other assignments for CTI 110.
 # About Me
  ## Pursuits  
    *degree  
-   *renovation  
+    1.  
+    2.  
+    3.  
+   *renovation
+    1.  
+    2.  
    *Recipes I want to perfect this year  
+    1.  
+    2.
+    3.
  ## What I am watching  
    *[Solo Leveling](https://www.youtube.com/watch?v=BIBXA1Tpp8U)  
-   *[American Primeval](https://www.youtube.com/watch?v=U8WMvCrywYg)
+	-description goes here  
+   *[American Primeval](https://www.youtube.com/watch?v=U8WMvCrywYg)  
+	-description goes here
