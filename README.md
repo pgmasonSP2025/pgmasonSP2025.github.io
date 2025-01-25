@@ -20,7 +20,7 @@ and other assignments for CTI 110.
     - Some might laugh at this but I also want to perfect the grill cheese. Just something about finding the perfect bread to cheese combo would solve all my problems.  
 
  ## What I am watching  
-   *[Solo Leveling preview on Youtube](https://www.youtube.com/watch?v=BIBXA1Tpp8U)  
+   1. [Solo Leveling preview on Youtube](https://www.youtube.com/watch?v=BIBXA1Tpp8U)  
 	- I find this anime interesting because of the way the main character had to earn his achievements and how they are used in his world. It almost breaks the fourth wall in the anime allowing the viewers a spoiler or two.  
-   *[American Primeval preview on Youtube](https://www.youtube.com/watch?v=U8WMvCrywYg)  
+   2. [American Primeval preview on Youtube](https://www.youtube.com/watch?v=U8WMvCrywYg)  
 	-This is a great show but it can be a bit violent so keep that in mind. It is set back in 1857 and follows the stories of several people and how some lives had to be lived. What I find really interesting about this show was it was set 50 years after the events in the movie The Revenant. I have not gotten to see any of the characters yet but curious to see what they will bring.
