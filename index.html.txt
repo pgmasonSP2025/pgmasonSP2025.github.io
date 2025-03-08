@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Introduction</title>
+  <style>
+	body{
+	    background-color:3A243C
+	}
+
+	h1{
+	  color:58619E
+	}
+
+	p{
+	color:AE2832
+	}
+  </style>
+  </head><br /><br />
+  <body>
+    <h1>My name is Patrick M.</h1>
+    <p> I spend a lot of my free time outside in my garage or watching tv when I am not working at my outdoor lighting job. But when I get the chance I try to read as much as I can. For the most part I stick too <em>sci fi</em> or a good <em>fantasy novel</em>, and for the new year I decided to try and read at least one book every month. </p>
+  </body>
+
+</html>
